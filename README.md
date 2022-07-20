@@ -4,13 +4,15 @@ Table of Contents
 =======================
 
 * [What is openpilot?](#what-is-openpilot)
-* [Running in a car](#running-in-a-car)
+* [Running on a dedicated device in a car](#running-on-a-dedicated-device-in-a-car)
 * [Running on PC](#running-on-pc)
 * [Community and Contributing](#community-and-contributing)
 * [User Data and comma Account](#user-data-and-comma-account)
 * [Safety and Testing](#safety-and-testing)
 * [Directory Structure](#directory-structure)
 * [Licensing](#licensing)
+
+To use openpilot in a car, you need four things
 
 ---
 
